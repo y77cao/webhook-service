@@ -1,4 +1,5 @@
-# hackernews-webhook
+# webhook-service
+Basic design for a webhook service. Example illustrated by subscribing to Hackernews home page changes.
 
 # Goal
 
